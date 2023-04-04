@@ -1,6 +1,6 @@
 # AdSmartABdata
 
-Une entreprise m'a confié les résultats de sa campagne sa campagne Google Ads
+Une entreprise m'a confié les résultats de sa campagne Google Ads
 
 La problématique de l'entreprise était d'analyser les résultats de sa campagne Google Ads en utilisant un test A/B pour mesurer l'efficacité de la campagne publicitaire. Les données fournies comprenaient les colonnes "userId", "Group control-test", "clicks" et "views".
 
